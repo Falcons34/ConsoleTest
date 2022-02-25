@@ -25,7 +25,7 @@ public class Testers {
 		}
 		p.setPassword(myObj.nextLine());
 
-		System.out.println("\n" + p.toString());
+		System.out.println("\n" + p);
 
 	}
 
